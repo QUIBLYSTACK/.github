@@ -1,9 +1,8 @@
-# 📘 Notes Builder AI — Smart Syllabus-to-Notes Generator
+# 📘 QUIBLYSTACK — Smart Syllabus-to-Notes Generator
+
+## *Transform your syllabus documents into optimized, structured study notes with AI!*
 ### Maintained by [Bijay B.K](https://github.com/bijay-develops/).
-
-Transform your syllabus documents into optimized, structured study notes with AI!  
-
-**Notes Builder AI** automates the conversion of syllabus files (PDF, DOCX, ODT) into exam-ready notes, mind maps, and personalized learning curves.
+**QUIBLYSTACK** automates the conversion of syllabus files (PDF, DOCX, ODT) into exam-ready notes, mind maps, and personalized learning curves.
 
 ---
 ## 📚 Use Case
