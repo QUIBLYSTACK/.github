@@ -19,11 +19,11 @@ Transform your syllabus documents into optimized, structured study notes with AI
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React / Next.js (optional: Tailwind, Mermaid.js, D3.js)
-- **Backend**: FastAPI / Node.js
-- **AI Integration**: OpenAI API / Transformers (T5, BART)
-- **File Parsing**: PyMuPDF, python-docx, Apache Tika
-- **Storage**: PostgreSQL / Firebase / AWS S3
+- **Frontend**: 
+- **Backend**:
+- **AI Integration**:
+- **File Parsing**:
+- **Storage**:
 
 ---
 
