@@ -2,6 +2,7 @@
 ### Maintained by [Bijay B.K](https://github.com/bijay-develops/).
 
 Transform your syllabus documents into optimized, structured study notes with AI!  
+
 **Notes Builder AI** automates the conversion of syllabus files (PDF, DOCX, ODT) into exam-ready notes, mind maps, and personalized learning curves.
 
 ---
