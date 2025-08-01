@@ -1,8 +1,16 @@
 # 📘 Notes Builder AI — Smart Syllabus-to-Notes Generator
+### Maintained by [Bijay B.K](https://github.com/bijay-develops/).
 
 Transform your syllabus documents into optimized, structured study notes with AI!  
 **Notes Builder AI** automates the conversion of syllabus files (PDF, DOCX, ODT) into exam-ready notes, mind maps, and personalized learning curves.
 
+---
+## 📚 Use Case
+
+Perfect for:
+- Students preparing for exams  
+- Educators creating teaching content  
+- Self-learners organizing complex topics  
 ---
 
 ## 🚀 Features
@@ -16,46 +24,40 @@ Transform your syllabus documents into optimized, structured study notes with AI
 - 🌐 **Web Interface** for uploading, viewing, and interacting with content
 
 ---
+## 🗂️ Repository-by-Repository Purpose — QUIBLYSTACK
 
-## 🛠️ Tech Stack
-
-- **Frontend**: 
-- **Backend**:
-- **AI Integration**:
-- **File Parsing**:
-- **Storage**:
-
----
-
-## 📚 Use Case
-
-Perfect for:
-- Students preparing for exams  
-- Educators creating teaching content  
-- Self-learners organizing complex topics  
-
----
-
-## 📂 Project Structure
+## ✅ Repository Structure Overview
 
 ```
-/frontend       # Web client  
-/backend        # API services  
-/ai_engine      # Notes generator, mind map, summarizer  
-/parsers        # PDF/DOCX/ODT file readers  
-/database       # Schema and models  
+QUIBLYSTACK/
+├── .github/                 # GitHub-wide configuration (issue templates, workflows, funding)
+├── QUIBLYSTACK_docs/        # Documentation site (e.g., Docusaurus, MkDocs, or static Markdown)
+├── QUIBLYSTACK_frontend/    # Web client - React, Next.js, or similar
+├── QUIBLYSTACK_backend/     # API and server-side logic - FastAPI, Node.js, Django, etc.
+├── QUIBLYSTACK_ai_engine/   # AI models and services for note generation, mind mapping
+├── QUIBLYSTACK_parser/      # File parsing services (PDF/DOCX/ODT extraction modules)
+├── QUIBLYSTACK_shared/      # Common types, constants, SDKs shared across services
+├── QUIBLYSTACK_devops/      # Infra-as-code: Docker, Kubernetes, CI/CD configs
+└── QUIBLYSTACK_cli/         # Optional CLI tool for interacting with the platform
 ```
 
 ---
 
-## 🧪 Running Locally
+## 📘 Repository Purposes
 
-```bash
-
-```
+| Repository               | Purpose                                                                 |
+|--------------------------|-------------------------------------------------------------------------|
+| `.github/`               | Issue templates, PR templates, GitHub Actions workflows shared across org |
+| `QUIBLYSTACK_docs/`      | Live documentation (hosted on GitHub Pages, Netlify, etc.)             |
+| `QUIBLYSTACK_frontend/`  | Frontend app, built using a modern framework (e.g., React + Tailwind)  |
+| `QUIBLYSTACK_backend/`   | REST/GraphQL API, auth, user management, etc.                          |
+| `QUIBLYSTACK_ai_engine/` | Core logic for note generation, mind map generation, learning curve engine |
+| `QUIBLYSTACK_parser/`    | Service for parsing and preprocessing syllabus files                   |
+| `QUIBLYSTACK_shared/`    | Shared TypeScript/Python SDKs, interfaces, constants                   |
+| `QUIBLYSTACK_devops/`    | Dockerfiles, Helm charts, Terraform, CI/CD pipelines                  |
+| `QUIBLYSTACK_cli/`       | (Optional) CLI for developers or advanced users                        |
 
 ---
 
 ## 📄 License
-
 This project is licensed under the MIT License.
